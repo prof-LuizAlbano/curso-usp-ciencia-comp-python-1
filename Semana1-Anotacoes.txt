@@ -1,0 +1,33 @@
+
+* Ciência da Computação
+    - surgida em meados do século 20
+    - engloba aspectos de várias áreas do conhecimento humano:
+        - Matemática
+        - Engenharia
+        - ciências naturais (biologia, química, física)
+        - Arte (criatividade, estático)
+        - Esporte (prática)
+
+
+    - Habilidades
+        - Capacidade de resolver problemas do mundo real computacionalmente
+        - Habilidades básicas:
+            - Formular problemas no mundo real em termos computacionais
+            - Elaborar uma solução para o problema em termos computacionais (algoritmo)
+            - Escrever um programa em linguagem de programação
+            - Testar o programa para verificar se ele realmente resolve o problema
+        - Habilidades mais avançadas:
+            - Gerenciar software de grande porte
+            - Construir software para lidar com grandes quantidades de dados
+            - Gerenciar equipes de desenvolvimento de software
+            - Comunicar com clientes e usuários para entender seus problemas, dificuldades e necessidades
+
+    - Conceitos básicos
+        - Algoritmo
+        - Linguagem de programação
+            - Linguagem de baixo nível
+                - Linguagem de máquina (códigos binários)
+                - Linguagem de montagem (assembly)
+            - Linguagens de alto nível (C, Java, Python, C++, etc)
+                - Linguagens interpretadas
+                - Linguagens compiladas
